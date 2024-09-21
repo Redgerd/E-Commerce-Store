@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/E-Commerce-Store/static/css/main.41fafc5e.css",
+    "main.js": "/E-Commerce-Store/static/js/main.b15578e4.js",
+    "static/js/71.8486dc06.chunk.js": "/E-Commerce-Store/static/js/71.8486dc06.chunk.js",
+    "static/js/576.56d224f8.chunk.js": "/E-Commerce-Store/static/js/576.56d224f8.chunk.js",
+    "static/js/754.55ea09e5.chunk.js": "/E-Commerce-Store/static/js/754.55ea09e5.chunk.js",
+    "static/js/34.4dfa24be.chunk.js": "/E-Commerce-Store/static/js/34.4dfa24be.chunk.js",
+    "static/js/787.f6ac163a.chunk.js": "/E-Commerce-Store/static/js/787.f6ac163a.chunk.js",
+    "static/js/490.0ca365ae.chunk.js": "/E-Commerce-Store/static/js/490.0ca365ae.chunk.js",
+    "static/js/528.ecd8bfca.chunk.js": "/E-Commerce-Store/static/js/528.ecd8bfca.chunk.js",
+    "static/media/hero_img.png": "/E-Commerce-Store/static/media/hero_img.8dc5a19e6934e101009b.png",
+    "static/media/poppins-all-400-normal.woff": "/E-Commerce-Store/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
+    "static/media/about_img.jpg": "/E-Commerce-Store/static/media/about_img.f97f65e1cb163f4fefb2.jpg",
+    "static/media/poppins-devanagari-400-normal.woff2": "/E-Commerce-Store/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-latin-400-normal.woff2": "/E-Commerce-Store/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/E-Commerce-Store/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
+    "index.html": "/E-Commerce-Store/index.html",
+    "main.41fafc5e.css.map": "/E-Commerce-Store/static/css/main.41fafc5e.css.map",
+    "main.b15578e4.js.map": "/E-Commerce-Store/static/js/main.b15578e4.js.map",
+    "71.8486dc06.chunk.js.map": "/E-Commerce-Store/static/js/71.8486dc06.chunk.js.map",
+    "576.56d224f8.chunk.js.map": "/E-Commerce-Store/static/js/576.56d224f8.chunk.js.map",
+    "754.55ea09e5.chunk.js.map": "/E-Commerce-Store/static/js/754.55ea09e5.chunk.js.map",
+    "34.4dfa24be.chunk.js.map": "/E-Commerce-Store/static/js/34.4dfa24be.chunk.js.map",
+    "787.f6ac163a.chunk.js.map": "/E-Commerce-Store/static/js/787.f6ac163a.chunk.js.map",
+    "490.0ca365ae.chunk.js.map": "/E-Commerce-Store/static/js/490.0ca365ae.chunk.js.map",
+    "528.ecd8bfca.chunk.js.map": "/E-Commerce-Store/static/js/528.ecd8bfca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fafc5e.css",
+    "static/js/main.b15578e4.js"
+  ]
+}
