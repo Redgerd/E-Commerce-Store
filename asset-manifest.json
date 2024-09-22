@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce-Store/static/css/main.41fafc5e.css",
-    "main.js": "/E-Commerce-Store/static/js/main.b15578e4.js",
+    "main.js": "/E-Commerce-Store/static/js/main.837d88be.js",
     "static/js/71.8486dc06.chunk.js": "/E-Commerce-Store/static/js/71.8486dc06.chunk.js",
     "static/js/576.56d224f8.chunk.js": "/E-Commerce-Store/static/js/576.56d224f8.chunk.js",
     "static/js/754.55ea09e5.chunk.js": "/E-Commerce-Store/static/js/754.55ea09e5.chunk.js",
@@ -17,7 +17,7 @@
     "static/media/poppins-latin-ext-400-normal.woff2": "/E-Commerce-Store/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
     "index.html": "/E-Commerce-Store/index.html",
     "main.41fafc5e.css.map": "/E-Commerce-Store/static/css/main.41fafc5e.css.map",
-    "main.b15578e4.js.map": "/E-Commerce-Store/static/js/main.b15578e4.js.map",
+    "main.837d88be.js.map": "/E-Commerce-Store/static/js/main.837d88be.js.map",
     "71.8486dc06.chunk.js.map": "/E-Commerce-Store/static/js/71.8486dc06.chunk.js.map",
     "576.56d224f8.chunk.js.map": "/E-Commerce-Store/static/js/576.56d224f8.chunk.js.map",
     "754.55ea09e5.chunk.js.map": "/E-Commerce-Store/static/js/754.55ea09e5.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.41fafc5e.css",
-    "static/js/main.b15578e4.js"
+    "static/js/main.837d88be.js"
   ]
 }
