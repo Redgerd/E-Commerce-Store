@@ -1,7 +1,3 @@
-Here's a draft for the `README.md` file for your **MERN Stack Ecommerce Store**:
-
----
-
 # MERN Stack Ecommerce Store
 
 This is a full-stack e-commerce store built using the **MERN stack** (MongoDB, Express, React, Node.js). The application includes essential e-commerce functionalities, such as product searching, filtering, sorting, and a shopping cart.
